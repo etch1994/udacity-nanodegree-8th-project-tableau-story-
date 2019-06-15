@@ -1,6 +1,7 @@
 # udacity-nanodegree-8th-project-tableau-story-
 create a data visualization using Tableau 
 
+
 ntroduction
 For the final project, you will create an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, and your final deliverable will be a write up along with a Tableau Public workbook.
 
@@ -104,5 +105,3 @@ Your goal is to build evidence that you have shared your visualization, received
 
 Step Seven - Review
 Use the Project Rubric to review your project. If you are happy with your submission, then you’re ready to submit your project. If you see room for improvement, keep working to improve your project!
-
-
